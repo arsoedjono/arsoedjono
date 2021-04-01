@@ -2,8 +2,8 @@
 
 ## I'm a Senior Test Engineer from Indonesia!
 - 🔭 I’m currently working on [Bukalapak.com][bukalapak]
-- 🌱 I’m currently learning Ruby, automation test, QA management, and anything interesting
-- ⚡ Fun fact: Like playing games such as Dota 2, Dota Underlords, and some mobile apps games
+- 🌱 I like explore new things and currently working on little projects using tools such as flutter, chrome extension, and ruby gems
+- ⚡ Fun fact: I like playing mobile casual games in my leisure time and play Dota 2 with friends
 
 ## How to reach me:
 [<img align="left" alt="arsoedjono | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
