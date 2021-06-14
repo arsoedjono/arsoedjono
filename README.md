@@ -1,7 +1,7 @@
 ### Hi there, I'm Aranda 👋
 
-## I'm a Senior Test Engineer from Indonesia!
-- 🔭 I’m currently working on [Bukalapak.com][bukalapak]
+## I'm a Software Quality Assurance Engineer from Indonesia!
+- 🔭 I’m currently working on Telkom Indonesia
 - 🌱 I like explore new things and currently working on little projects using tools such as flutter, chrome extension, and ruby gems
 - ⚡ Fun fact: I like playing mobile casual games in my leisure time and play Dota 2 with friends
 
@@ -31,7 +31,6 @@
 
 
 [appium]: http://appium.io/
-[bukalapak]: https://www.bukalapak.com
 [cucumber]: https://cucumber.io/
 [flutter]: https://flutter.dev/
 [git]: https://git-scm.com/
