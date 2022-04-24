@@ -15,9 +15,12 @@
 ## Language and Tools:
 [<img align="left" alt="Appium" width="26px" src="https://cdn.worldvectorlogo.com/logos/appium.svg" />][appium]
 [<img align="left" alt="Cucumber" width="26px" src="https://simpleicons.org/icons/cucumber.svg" />][cucumber]
+[<img align="left" alt="Docker" width="26px" src="https://simpleicons.org/icons/docker.svg" />][docker]
 [<img align="left" alt="Git" width="26px" src="https://simpleicons.org/icons/git.svg" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://simpleicons.org/icons/github.svg" />][github]
 [<img align="left" alt="Gitlab" width="26px" src="https://simpleicons.org/icons/gitlab.svg" />][gitlab]
+[<img align="left" alt="Jenkins" width="26px" src="https://simpleicons.org/icons/jenkins.svg" />][jenkins]
+[<img align="left" alt="NodeJS" width="26px" src="https://simpleicons.org/icons/nodedotjs.svg" />][nodejs]
 [<img align="left" alt="Ruby" width="26px" src="https://simpleicons.org/icons/ruby.svg" />][ruby]
 [<img align="left" alt="Selenium" width="26px" src="https://simpleicons.org/icons/selenium.svg" />][selenium]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" />][vscode]
@@ -25,20 +28,24 @@
 <br/>
 
 ## Now Learning:
-[<img align="left" alt="Flutter" width="26px" src="https://simpleicons.org/icons/flutter.svg" />][flutter]
+[<img align="left" alt="Google Cloud" width="26px" src="https://simpleicons.org/icons/googlecloud.svg" />][google-cloud]
+[<img align="left" alt="K6" width="26px" src="https://k6.gallerycdn.vsassets.io/extensions/k6/k6/0.5.1/1591612857276/Microsoft.VisualStudio.Services.Icons.Default" />][k6]
 [<img align="left" alt="Kotlin" width="26px" src="https://simpleicons.org/icons/kotlin.svg" />][kotlin]
-[<img align="left" alt="Ruby Gem" width="26px" src="https://simpleicons.org/icons/rubygems.svg" />][rubygems]
 
 
 [appium]: http://appium.io/
 [cucumber]: https://cucumber.io/
-[flutter]: https://flutter.dev/
+[docker]: https://www.docker.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [gitlab]: https://about.gitlab.com/
+[google-cloud]: https://cloud.google.com/
 [instagram]: https://instagram.com/arsoedjono
+[jenkins]: https://www.jenkins.io/
+[k6]: https://k6.io/
 [kotlin]: https://kotlinlang.org/
 [linkedin]: https://linkedin.com/in/arsoedjono
+[nodejs]: https://nodejs.org/en/
 [ruby]: https://www.ruby-lang.org/
 [rubygems]: https://rubygems.org/
 [selenium]: https://www.selenium.dev/
