@@ -1,9 +1,9 @@
 ### Hi there, I'm Aranda 👋
 
-## I'm a Software Quality Assurance Engineer from Indonesia!
-- 🔭 I’m currently working on Telkom Indonesia
+## I'm a Software Engineer in Test from Indonesia!
+- 🔭 I’m currently working on [mapan.id](https://mapan.id/)
 - 🌱 I like explore new things and currently working on little projects using tools such as flutter, chrome extension, and ruby gems
-- ⚡ Fun fact: I like playing mobile casual games in my leisure time and play Dota 2 with friends
+- ⚡ Fun fact: I like playing video games, such as Dota 2 Ability Arena, State of Survival, Superstar SM Town, and Clash of Clans
 
 ## How to reach me:
 [<img align="left" alt="arsoedjono | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
