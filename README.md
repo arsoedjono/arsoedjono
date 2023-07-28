@@ -21,13 +21,13 @@ const me = {
   },
   interests: {
     gaming: {
-      dota2: "Custom game Ability Arena - Immortal Rank",
-      clashOfClans: "Co-leader TH 10",
-      stateOfSurvival: ["State 998 - R3 (active member)", "State 1127 - R5 (alliance leader)"]
+      dota2: ["Custom game", "Turbo", "Ability Draft", "Bots"],
+      clashOfClans: "TH 10",
+      stateOfSurvival: "State 998 - R3 (active member)"
     },
     wantToLearn: {
       programmingLanguage: ["Go", "Rust"],
-      testingType: ["Contract Testing"]
+      testingType: ["Contract Testing", "Performance Testing"]
     },
     challenge: "Create a complete Test Case Management tool and implement ideal testings"
   }
