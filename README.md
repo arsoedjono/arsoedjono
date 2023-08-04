@@ -27,7 +27,8 @@ const me = {
     },
     wantToLearn: {
       programmingLanguage: ["Go", "Rust"],
-      testingType: ["Contract Testing", "Performance Testing"]
+      testingType: ["Contract Testing", "Performance Testing"],
+      approach: ["Automation Screenplay Pattern"]
     },
     challenge: "Create a complete Test Case Management tool and implement ideal testings"
   }
