@@ -15,14 +15,14 @@ const me = {
       automatedTesting: ["Appium", "Cucumber", "Selenium"],
       cicd: ["Jenkins", "Gitlab Pipeline"],
       performanceTesting: ["Jmeter", "K6"],
-      testCaseManagement: ["XRAY", "TestRail"]
+      testCaseManagement: ["XRAY", "TestRail", "Qase.io"]
       others: ["Docker", "Git"]
     }
   },
   interests: {
     gaming: {
-      dota2: ["Custom game", "Turbo", "Ability Draft", "Bots"],
-      clashOfClans: "TH 10",
+      clashOfClans: "TH 12",
+      oxygenNotIncluded: "18/45 achievements",
       stateOfSurvival: "State 998 - R3 (active member)"
     },
     wantToLearn: {
